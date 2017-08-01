@@ -1,13 +1,24 @@
 <resources>
-    <string name="app_name">Sample</string>
+    <string name="app_name">Timer</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="timer">Timer</string>
+    <string name="countdown">Countdown</string>
     <string name="t1">T1</string>
     <string name="reset">Reset</string>
     <string name="textview">TextView</string>
-    <string name="timer">Timer</string>
     <string name="counter">Counter</string>
     <string name="_0_00_000">0:00:000</string>
     <string name="lap">Lap</string>
     <string name="pause">Pause</string>
     <string name="start">Start</string>
     <string name="name">Name</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="enter_a_time_to_countdown">Enter a Time to Countdown</string>
+    <string name="cancel">Cancel</string>
+    <string name="pause5">Pause</string>
+    <string name="start5">Start</string>
+    <string name="enter_a_time_in_seconds">Enter a time in seconds</string>
+    <string name="resume">Resume</string>
+
 </resources>
